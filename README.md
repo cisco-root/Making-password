@@ -1,5 +1,7 @@
 
 
+![Platform windows](https://img.shields.io/badge/Platform-windows-lightgrey.svg)
+![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?style=flat-square)
 
 
 <p align="center">
