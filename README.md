@@ -14,4 +14,5 @@ type cd Desktop
 -------------
 type cd Making-password-master
 ---------------
-type # "password make.py"
+type "password make.py"
+----------------------
