@@ -2,8 +2,6 @@
 ------------
 Prerequisite python 
 ----------------
-open cmd
--------
 download https://github.com/cisco-root/Making-password/archive/master.zip
 ------------------
 move file Making-password-master to Desktop
