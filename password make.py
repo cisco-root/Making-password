@@ -1,6 +1,4 @@
-#######################################################
-####################by Mr.jailbreak####################
-#######################################################
+
 import string 
 from random import *
 	 
@@ -10,3 +8,11 @@ print("this your password : " , password)
 print(" <------------------>")
 print(" |  by cisco root   |")
 print(" <------------------>")
+
+input("\n\n Press enter to exit")
+print("<----------------------->")
+print("|https://t.me/cisco_root|")
+print("<----------------------->")
+print("<--------------------->")
+print("|github.com/cisco-root|")
+print("<--------------------->")
