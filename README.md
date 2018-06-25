@@ -5,7 +5,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 
 <p align="center">
-  <a href=""><img width="300" src="https://mr-robot1.cf/cat-unicorn.jpg"></a>
+  <a href=""><img width="300" src="https://mr-robot1.cf/root.png"></a>
 
 
 ### for windows
